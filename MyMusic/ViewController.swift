@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyMusic
 //
-//  Created by 山本怜 on 2020/10/26.
+//  Created by 高橋燦太 on 2020/10/26.
 //
 
 import UIKit
